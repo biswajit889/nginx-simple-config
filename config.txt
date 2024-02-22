@@ -42,3 +42,7 @@ server {
     }
 }
 =========================================================
+
+for soft link creation installtion
+sudo ln -s /etc/nginx/sites-available/mysql_proxy /etc/nginx/sites-enabled/
+
